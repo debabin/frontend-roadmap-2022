@@ -1,0 +1,12 @@
+.imported {
+  content: "yay, file support!";
+}
+
+.selector {
+  margin: 1em;
+  background-color: #f60;
+}
+
+.selector .nested {
+  margin: 0.5em;
+}

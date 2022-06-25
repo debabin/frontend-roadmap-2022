@@ -1,0 +1,13 @@
+@import "imported";
+
+$brandColor: #f60;
+$size: 1em;
+
+.selector {
+  margin: $size;
+  background-color: $brandColor;
+
+  .nested {
+    margin: $size / 2;
+  }
+}

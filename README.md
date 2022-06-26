@@ -4,6 +4,20 @@
 
 # 👇 Roadmap
 
+## Полезные ссылки
+
+### 🤓 Intern (студент/стажер)
+
+- #### HTML
+  - http://htmlbook.ru/
+  - https://developer.mozilla.org/ru/docs/Web/HTML
+- #### CSS
+  - http://htmlbook.ru/css
+  - https://developer.mozilla.org/ru/docs/Web/CSS
+- #### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="js" width="200"/> JS
+  - https://learn.javascript.ru/
+  - https://github.com/azat-io/you-dont-know-js-ru
+
 ![🗺️ Roadmap Front-end 2022](./roadmap2022.jpg)
 
 ## Социальные сети

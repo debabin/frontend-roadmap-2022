@@ -8,13 +8,13 @@
 
 ### 🤓 Intern (студент/стажер)
 
-- #### HTML
+- #### <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="js" width="40"/> 
   - http://htmlbook.ru/
   - https://developer.mozilla.org/ru/docs/Web/HTML
-- #### CSS
+- #### <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="js" width="40"/> 
   - http://htmlbook.ru/css
   - https://developer.mozilla.org/ru/docs/Web/CSS
-- #### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="js" width="200"/> JS
+- #### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="js" width="40"/> 
   - https://learn.javascript.ru/
   - https://github.com/azat-io/you-dont-know-js-ru
 

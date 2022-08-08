@@ -1,0 +1,9 @@
+{
+    "name": "frontend-roadmap-junior",
+    "version": "1.0.0",
+    "devDependencies": {
+        "@typescript-eslint/eslint-plugin": "^5.32.0",
+        "@typescript-eslint/parser": "^5.32.0",
+        "eslint": "^8.21.0"
+    }
+}

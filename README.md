@@ -8,7 +8,7 @@
 
 ## Видео 🤖 junior - middle
 
-[![watch the video](https://img.youtube.com/vi/wCkO-X4cwuk/maxresdefault.jpg)](https://youtu.be/wCkO-X4cwuk)
+[![watch the video](https://img.youtube.com/vi/XOGmPtEKn7c/maxresdefault.jpg)](https://youtu.be/XOGmPtEKn7c)
 
 # 👇 Roadmap
 
